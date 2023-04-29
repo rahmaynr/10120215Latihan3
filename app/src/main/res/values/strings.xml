@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10120215Latihan3</string>
+
+    <string name="monitory">Monitory Membantu Anda \n Mengontrol HP Anak </string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="login">Ketikkan kode keluarga yang Ayah Bunda \nmilik disini</string>
+    <string name="dengan">Dengan menekan tombol masuk berati Anda menyetujui </string>
+    <string name="ketentuan"><b>Ketentuan Pengguna </b> dan <b>Kebijakan Data</b> kami </string>
+    <string name="belum">Belum punya kode keluarga? </string>
+    <string name="nama">Nama Panggilan Kamu</string>
+    <string name="contoh">Contoh : Budi</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="contohh">Contoh : 12</string>
+    <string name="say">Beres! Sekarang kamu\nudah bisa ngecek penggunaan HP mu\ntiap hari buat bantu kamu\nngatur watu :) </string>
+</resources>
