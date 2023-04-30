@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!-- Tanggal Pengerjaan : 30 April 2023 -->
+    <!-- Deskripsi Pekerjaan : Latihan3 -->
+    <!-- Nim : 10120215 -->
+    <!-- Nama: Rahma Yuniar -->
+    <!-- Kelas: IF6 -->
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/welcome"
         android:layout_width="416dp"
