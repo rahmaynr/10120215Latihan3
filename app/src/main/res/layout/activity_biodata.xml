@@ -62,7 +62,7 @@
         android:layout_marginTop="380dp"
         android:background="@drawable/buttton"
         android:onClick="onClickMyButton"
-        android:text="Selanjutnya"
+        android:text="@string/selanjutnya"
         android:textAllCaps="false"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"

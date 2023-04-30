@@ -8,8 +8,12 @@
     <string name="ketentuan"><b>Ketentuan Pengguna </b> dan <b>Kebijakan Data</b> kami </string>
     <string name="belum">Belum punya kode keluarga? </string>
     <string name="nama">Nama Panggilan Kamu</string>
-    <string name="contoh">Contoh : Budi</string>
+    <string name="contoh">Contoh : Rahma</string>
     <string name="umur">Umur Kamu</string>
-    <string name="contohh">Contoh : 12</string>
-    <string name="say">Beres! Sekarang kamu\nudah bisa ngecek penggunaan HP mu\ntiap hari buat bantu kamu\nngatur watu :) </string>
+    <string name="contohh">Contoh : 20</string>
+    <string name="titik">.</string>
+    <string name="say">Beres! Sekarang kamu\nudah bisa ngecek penggunaan HP mu\ntiap hari buat bantu kamu\nngatur waktu :) </string>
+    <string name="oke">Oke</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="selanjutnya">Selanjutnya</string>
 </resources>
